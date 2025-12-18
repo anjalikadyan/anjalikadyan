@@ -1,91 +1,93 @@
-# 👋 Hi, I'm Anjali Kadyan
+# 👋 Hey, I'm **Anjali Kadyan**
 
-🎓 B.Tech Computer Science & Engineering (3rd Year)  
-💻 Full Stack Developer | DSA Enthusiast | Aspiring AI Engineer  
-📍 Punjab, India  
+💻 **B.Tech CSE | 3rd Year | Full Stack Developer | DSA Enthusiast | Aspiring AI Engineer**
 
----
-
-## 🚀 About Me
-
-I am a passionate **Computer Science Engineering undergraduate at Lovely Professional University** with hands-on experience in **full-stack web development** and strong foundations in **Data Structures & Algorithms**. I enjoy building real-world applications, solving coding problems, and continuously learning new technologies, especially in **AI and Generative AI**.
+I'm an enthusiastic **Computer Science Engineering student at Lovely Professional University**, passionate about building **scalable, real-world web applications**. I’m currently focused on **Full Stack Development (MERN stack)** and exploring **Artificial Intelligence**, especially **Generative AI**, to create smarter and more efficient solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Working On
 
-### 👨‍💻 Programming Languages
-- C++
-- Java
-- JavaScript
-- HTML & CSS
+- **Full Stack Development:**  
+  Building responsive and user-centric web applications using **HTML, CSS, JavaScript, React.js, and Node.js**.
+- **Artificial Intelligence & Generative AI:**  
+  Exploring AI fundamentals, generative models, and real-world automation use cases.
+- **DSA & Problem Solving:**  
+  Strengthening logical thinking through consistent practice on **LeetCode and GeeksforGeeks**.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### ⭐ Languages & Scripting
+`C++` `Java` `JavaScript` `Python` `C` `Bash`
 
 ### 🌐 Web Development
-- React.js
-- Node.js
-- Tailwind CSS
-- REST APIs
+`HTML` `CSS` `React.js` `Node.js` `Express.js` `REST APIs` `Tailwind CSS`
 
-### 🗄️ Databases
-- MySQL
-- MongoDB
+### 🗄 Databases
+`MySQL` `MongoDB`
 
-### 🔧 Tools
-- Git & GitHub
-- VS Code
+### 🔧 Tools & Platforms
+`Git` `GitHub` `VS Code`
+
+### 📦 Currently Learning
+`MERN Stack` `Machine Learning` `Generative AI`
 
 ---
 
-## 📌 Featured Projects
+## 🌱 In Progress
 
-### 🔹 Training Center Management System
-- Full-stack platform for course management, student enrollment, and assignment uploads
-- Implemented role-based dashboards and secure authentication
-- Improved admin efficiency by reducing manual coordination  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-### 🔹 Tours & Travel Packages App
-- React-based application for browsing and managing tour packages
-- Implemented dynamic data fetching, reusable components, and conditional rendering
-- Focused on smooth UI interactions and usability  
-**Tech:** React.js, JavaScript, CSS  
-
----
-
-## 📚 Training & Learning
-
-### 🧠 Data Analytics Essentials – Summer Training (LPU)
-- Worked with SQL, Python, Excel, Tableau, and Power BI
-- Performed data cleaning, preprocessing, and EDA on retail sales data
-- Built interactive dashboards for data-driven insights
+- Developing **end-to-end full-stack applications** using MongoDB, Express, React, and Node.js  
+- Improving **Data Structures & Algorithms** for interviews and competitive programming  
+- Exploring **AI-driven applications** and automation workflows  
 
 ---
 
 ## 🏆 Achievements
 
-- ✅ Solved **150+ problems on LeetCode**
-- ✅ Solved **130+ DSA problems on GeeksforGeeks**
-- 🎯 Earned **215+ GFG points** through consistent practice
-- Strong problem-solving skills in arrays, strings, stacks, and recursion
+- ✅ Solved **150+ DSA problems on LeetCode**  
+- ✅ Solved **130+ problems on GeeksforGeeks** (215+ points)  
+- 💡 Strong understanding of arrays, strings, stacks, recursion, and OOP  
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Fun Fact
 
-- Advanced React & Backend APIs
-- MERN Stack Development
-- Machine Learning & Generative AI fundamentals
+When I’m not coding, you’ll find me exploring tech communities, learning new tools, or brainstorming creative technology solutions.
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anjali-kadyan-070274248/
-- 💻 GitHub: https://github.com/anjalikadyan
-- 📧 Email: anjalikadyan607@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kadyan-070274248/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/anjalikadyan)
+📧 **Email:** anjalikadyan607@gmail.com
 
 ---
 
-✨ *Always learning. Always building.*
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anjalikadyan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjalikadyan&theme=dracula&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikadyan&theme=dracula&layout=compact&hide_border=false)
+
+---
+
+## 🏆 Achievements & Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=anjalikadyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✨ Inspirational Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=anjalikadyan&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Updated with ❤️ to reflect consistency, growth, and ambition -->
