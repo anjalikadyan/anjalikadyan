@@ -76,11 +76,6 @@ When I’m not coding, you’ll find me exploring tech communities, learning new
 
 ---
 
-## 🏆 Achievements & Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=anjalikadyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✨ Inspirational Dev Quote
 
