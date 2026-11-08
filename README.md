@@ -74,10 +74,5 @@ Course discovery, enrollment, checkout, and role-based dashboards for learners, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalikadyan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikadyan&theme=dracula&layout=compact&hide_border=false)
 
 <!-- Updated to reflect my latest projects, skills, and progress -->
